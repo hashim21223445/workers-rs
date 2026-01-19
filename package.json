@@ -16,9 +16,9 @@
   "devDependencies": {
     "@types/node": "^20.4.8",
     "@types/uuid": "^9.0.2",
-    "miniflare": "^3.20231030.2",
+    "miniflare": "^4.20250712.0",
     "typescript": "^5.1.6",
-    "undici": "^5.28.4",
+    "undici": "^6.23.0",
     "uuid": "^9.0.0",
     "vitest": "^0.32.4"
   },
